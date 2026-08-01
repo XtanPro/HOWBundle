@@ -1,47 +1,47 @@
 {
     "Version": 1,
-    "BuildTime": "2026-08-01T04:16:03.2256144Z",
+    "BuildTime": "2026-08-01T07:33:30.7968293Z",
     "Bundles": [
         {
             "Category": "Effects",
             "Pack": "pack1",
             "Bundle": "effects_pack1",
-            "Hash": "1a3cd64f82a548b12347b35408847422a5db68560464ae5977af4211be4acc2b",
-            "Size": 5419747
+            "Hash": "7290d1d5843224af32432f80cdc294075bc10fe84ded80e5aee03c56006273b3",
+            "Size": 5418423
         },
         {
             "Category": "Effects",
             "Pack": "pack2",
             "Bundle": "effects_pack2",
-            "Hash": "19caef2f28c64a6f853789e62f174b681d33c8f0e7901665f16e9da5adb9f8cc",
+            "Hash": "d74f0f2262a709165683dade04e91672775e0be8d013505a8ab39057b63bc3c2",
             "Size": 5418355
         },
         {
             "Category": "Effects",
             "Pack": "pack3",
             "Bundle": "effects_pack3",
-            "Hash": "1fcce7bca0656393ce249a74ab5c85753ca9cc9cf688345a6861c64f70f57005",
+            "Hash": "d887a444ddd9a87516f91a5cf92f129c369deb831568e896d7f29de890dc5fd3",
             "Size": 5002506
         },
         {
             "Category": "Heroes",
             "Pack": "Demon",
             "Bundle": "heroes_demon",
-            "Hash": "1eca5d6788f4f1fac497bbea40095872757eecfc2de97a6c5ae812cd90257596",
+            "Hash": "debbeabca9f8330e48f6e3b965b1b3c6ca7a7ee708088c5867512c11cfa9bab0",
             "Size": 5418604
         },
         {
             "Category": "Heroes",
             "Pack": "Human",
             "Bundle": "heroes_human",
-            "Hash": "dc4499b36b045e1aa4939d40cb6868545c606608a5d67f5589def0b456bdf1e8",
+            "Hash": "545a548450dd275e2507df698f3569afaf4d7bd8c368d9ee25d81db11d869631",
             "Size": 5418443
         },
         {
             "Category": "Heroes",
             "Pack": "Warrior",
             "Bundle": "heroes_warrior",
-            "Hash": "cc4a821a42dce82b13ce40b1f0a4ac233f7c652de4b12aa5d8f5146a4bffaea1",
+            "Hash": "2efaef000ffc0374b8e764465f9292d3255c8d685408bb4c44cc97d30e1dc137",
             "Size": 5001983
         }
     ]
