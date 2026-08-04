@@ -1,11 +1,11 @@
 {
-    "BuildTime": "2026-08-04T09:00:42.5233954Z",
+    "BuildTime": "2026-08-04T09:10:08.0873262Z",
     "Bundles": [
         {
             "Category": "Monster",
             "Pack": "Battle",
             "Bundle": "monster_battle",
-            "Hash": "7da73ad76ccff0facf4000e08d524eb83e26e7fcf56a50df44f86d3a5a8f001a",
+            "Hash": "733dbd490dae18bede5e0ef5aa2c118346dab7f6d8a75533dbe67af837b922ac",
             "Size": 912495
         }
     ]
