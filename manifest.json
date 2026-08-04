@@ -1,11 +1,11 @@
 {
-    "BuildTime": "2026-08-04T21:39:36.2504789Z",
+    "BuildTime": "2026-08-04T22:05:49.6212264Z",
     "Bundles": [
         {
-            "Category": "Effects",
-            "Pack": "Pack1",
-            "Bundle": "effects_pack1",
-            "Hash": "7da73ad76ccff0facf4000e08d524eb83e26e7fcf56a50df44f86d3a5a8f001a",
+            "Category": "Monster",
+            "Pack": "Battle",
+            "Bundle": "monster_battle",
+            "Hash": "a80009106ce82ad7d4da13ec5b339a54e34d6d7111dd93045db7b91ab3e60687",
             "Size": 912495
         }
     ]
