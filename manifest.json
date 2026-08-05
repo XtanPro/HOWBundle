@@ -1,0 +1,12 @@
+{
+    "BuildTime": "2026-08-05T03:29:48.7638765Z",
+    "Bundles": [
+        {
+            "Category": "Effects",
+            "Pack": "pack1",
+            "Bundle": "effects_pack1",
+            "Hash": "9fa80dd6f3fa1c4256296417f4a16b2466095bf295b6b05bb0ef9a4abb9bfe96",
+            "Size": 6317327
+        }
+    ]
+}
