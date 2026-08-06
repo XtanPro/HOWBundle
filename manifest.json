@@ -1,5 +1,5 @@
 {
-    "BuildTime": "2026-08-05T04:10:52.0069164Z",
+    "BuildTime": "2026-08-06T11:03:34.4362722Z",
     "Bundles": [
         {
             "Category": "Effects",
@@ -7,6 +7,62 @@
             "Bundle": "effects_pack1",
             "Hash": "cc85635892fdface3a3b39e0687e8e5f38ed0b57743064a27e700694c78a1966",
             "Size": 6605761
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack0",
+            "Bundle": "hero_pack0",
+            "Hash": "d1349382e360b4f0d2833b61ada13dd3d2137b88f8049f8b3532da5eb3cad348",
+            "Size": 376618
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack1",
+            "Bundle": "hero_pack1",
+            "Hash": "b63b5f51f0dca2aaa72427ed7cc7e744aaf1ef24d6dfea302711ec5879782717",
+            "Size": 95739347
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack2",
+            "Bundle": "hero_pack2",
+            "Hash": "5c317e757ba6324f55f39d15202babb0113f99cc0db966df411be01142cbf81c",
+            "Size": 73599304
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack3",
+            "Bundle": "hero_pack3",
+            "Hash": "141d527871e10bfb6a6bb282bcdc8220236b4e8230203f4596d3c95c7577c088",
+            "Size": 103939868
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack4",
+            "Bundle": "hero_pack4",
+            "Hash": "ee3f0ed837953569477ee97961c6a4ddbe0f6bc3faaf2aa28db869c3d46e517c",
+            "Size": 77500711
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack5",
+            "Bundle": "hero_pack5",
+            "Hash": "9c22cece10803d43d4ed632e9b00bc8c8c154b4dcbd3cfca0706293a99a35d3c",
+            "Size": 67436725
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack6",
+            "Bundle": "hero_pack6",
+            "Hash": "57787e02cbc107551e8640c30ad663c759b42a1354e7904e0f886946dd6329fe",
+            "Size": 81640914
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack8",
+            "Bundle": "hero_pack8",
+            "Hash": "702daa096c285702941c5bd952ff50952b593b27a4b1086e29f8818fe379f343",
+            "Size": 50145713
         }
     ]
 }
