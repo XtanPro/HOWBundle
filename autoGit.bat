@@ -13,7 +13,7 @@ echo.
 git add .
 
 echo.
-echo Commit message: GA File
+echo Commit message: GAs File
 echo.
 
 git commit -m "GA File"
