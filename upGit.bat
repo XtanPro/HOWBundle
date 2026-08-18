@@ -1,5 +1,5 @@
 @echo off
-title HOWBundle Git Upload
+title HOWBundle Git Uploads
 
 echo.
 echo ===============================

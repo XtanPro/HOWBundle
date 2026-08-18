@@ -16,7 +16,7 @@ echo.
 echo Commit message: GA File
 echo.
 
-git commit -m "GA File"
+git commit -m "GAff File"
 
 if errorlevel 1 (
     echo.
