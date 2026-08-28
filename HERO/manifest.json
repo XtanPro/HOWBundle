@@ -1,0 +1,404 @@
+{
+    "BuildTime": "2026-08-28T03:08:10.0479714Z",
+    "Bundles": [
+        {
+            "Category": "HERO",
+            "Pack": "Pack0_200",
+            "Bundle": "hero_pack0_200",
+            "Hash": "a91431e8e7760705be7787fcf0cfc1e7177d0c26aeefc2507a6b50978b7b612d",
+            "Size": 376566
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack1_1",
+            "Bundle": "hero_pack1_1",
+            "Hash": "a38872f47de1ca6612b33b4d530a0499e5a6474c6fb25bed23be797562c843ec",
+            "Size": 8386592
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack1_2",
+            "Bundle": "hero_pack1_2",
+            "Hash": "b99506bb264793bbb5d06893d025e76e2aa4af1fd9aeabf90925811ab2dcd40e",
+            "Size": 4818102
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack1_3",
+            "Bundle": "hero_pack1_3",
+            "Hash": "6de89cec643400dc63420c5011584269348f123a32e6640054a788997cfb7606",
+            "Size": 2995795
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack1_4",
+            "Bundle": "hero_pack1_4",
+            "Hash": "88d3e37fb83a26808bbd16406f8b6c4ab443ee78b52aa3293597eb84aee2d1ef",
+            "Size": 6033263
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack1_5",
+            "Bundle": "hero_pack1_5",
+            "Hash": "3976cadc9a8c57ad7550163e27ba834d71e1b5f0b2c868b3acde6f3e2ced623a",
+            "Size": 6751901
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack1_6",
+            "Bundle": "hero_pack1_6",
+            "Hash": "230130fa6b58e7170619bcdfa340fdb2ff5fda3c2a18c46cf1a5610b203f824a",
+            "Size": 23847470
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack1_7",
+            "Bundle": "hero_pack1_7",
+            "Hash": "0b2ed8cd13fc6478b18b1c885d99c0d61e5994ae27c2c429f46fbe4f06979888",
+            "Size": 16696525
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack1_8",
+            "Bundle": "hero_pack1_8",
+            "Hash": "14f8d461f449a26ed84936d29bb94455413a3ab9f73ec954be450f17056a2f00",
+            "Size": 21565125
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack1_9",
+            "Bundle": "hero_pack1_9",
+            "Hash": "aa8a09e228c052303a3fca98b6b8769e32501d573118727ed77359f4d6a26704",
+            "Size": 4499126
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack2_1",
+            "Bundle": "hero_pack2_1",
+            "Hash": "0f303ee7560042faeba58e30af6527d46027d98d42a23c3e9373826361e1124d",
+            "Size": 4833650
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack2_2",
+            "Bundle": "hero_pack2_2",
+            "Hash": "171c4aee3daafa218548dc47abfcbfc2a01853259c5dc4fa7d105c317c01d08b",
+            "Size": 4571529
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack2_3",
+            "Bundle": "hero_pack2_3",
+            "Hash": "9cc8d2037386437c4a69ed6f1ba021bf9722c74ce05983a3821e8f13e0a9f8cf",
+            "Size": 4471454
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack2_4",
+            "Bundle": "hero_pack2_4",
+            "Hash": "c1a26b8f82ac6971ce136253713d844c0ab6e880bee14734c9ee79c045e15ab0",
+            "Size": 2997592
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack2_5",
+            "Bundle": "hero_pack2_5",
+            "Hash": "5370b3954378f3a18c4796f571acd483c83431bb8756fb25c0c2eaeda44c194e",
+            "Size": 10236815
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack2_6",
+            "Bundle": "hero_pack2_6",
+            "Hash": "d9d47b7b25747c621bbe239099dc2930a46975a1b12c63c341e6f5dd5e0c1654",
+            "Size": 7627185
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack2_7",
+            "Bundle": "hero_pack2_7",
+            "Hash": "cfc02e3b9547b1c378cec0f60511ed4eae42ba03553a1afec327634b213be3f0",
+            "Size": 10823752
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack2_8",
+            "Bundle": "hero_pack2_8",
+            "Hash": "b8dfaf3ab9b88d0f0dae3856a446019eff48774c74d8807c8f032ba95b609213",
+            "Size": 22310342
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack2_9",
+            "Bundle": "hero_pack2_9",
+            "Hash": "77a19fa3edab93fadeb08947f99c2adf4369f3c2accb836803cd11c721e45f15",
+            "Size": 4351382
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack2_20",
+            "Bundle": "hero_pack2_20",
+            "Hash": "728bb56800b93c34c9686aa47b945b1ee2e3b60acefa1e7ed99f085fa9d39f3c",
+            "Size": 92988
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack2_40",
+            "Bundle": "hero_pack2_40",
+            "Hash": "1a0428a8b6a4439492f0384d33c7fe6bd5adabe6102d3a7151b1c3c7a795635a",
+            "Size": 357284
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack2_60",
+            "Bundle": "hero_pack2_60",
+            "Hash": "fc210f2a61c8bd97b3ebb7c211cc18052d7f96f6c893f1fd2d8f079cd324e843",
+            "Size": 326151
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack2_80",
+            "Bundle": "hero_pack2_80",
+            "Hash": "07849da19e2964e7b46b95378f3661c282c8d362fb73243c0287a3b2f97322e9",
+            "Size": 180461
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack2_100",
+            "Bundle": "hero_pack2_100",
+            "Hash": "1923655a73cda6edd24dfbb1a1002d574091cac88f419ab580f8b43228aadccc",
+            "Size": 103255
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack2_120",
+            "Bundle": "hero_pack2_120",
+            "Hash": "0b12136e6b2f369d77110d2180afe92fd63356f68656356e3e0a274ffe581837",
+            "Size": 298234
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack3_1",
+            "Bundle": "hero_pack3_1",
+            "Hash": "7b38c55f158b3fbe806cb3caf379bbf2d46b2f96747cc30ac7445bbcc501131b",
+            "Size": 12389339
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack3_2",
+            "Bundle": "hero_pack3_2",
+            "Hash": "a41d011e820135587f0456b119468c94123de6e018f1a927de6fc6fa65d85098",
+            "Size": 4457326
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack3_3",
+            "Bundle": "hero_pack3_3",
+            "Hash": "3a3592eb065449f6605bf616ca10a2f88717f8f6ad63cd8a1109894c4442ab7e",
+            "Size": 7465934
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack3_4",
+            "Bundle": "hero_pack3_4",
+            "Hash": "d84600319cb0d7b5272966d5d781d746531a0d5689ea568df60f7ae40a4a90e6",
+            "Size": 6158150
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack3_5",
+            "Bundle": "hero_pack3_5",
+            "Hash": "379301276e98be57060ec910e9628b31bb7690d10db0e008a89eb80298385f9c",
+            "Size": 4431794
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack3_6",
+            "Bundle": "hero_pack3_6",
+            "Hash": "882183d7afa3bf98760436754702c855364f60ec2cf741bcccfab4894d7879c1",
+            "Size": 8632638
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack3_7",
+            "Bundle": "hero_pack3_7",
+            "Hash": "4ecc0499e7bac1f93a18e59961b6ba9630c7775b20b0d6d960610f557a708dd7",
+            "Size": 17956926
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack3_8",
+            "Bundle": "hero_pack3_8",
+            "Hash": "4d9566ae0d030edacb762bd04c8be3dd61973ecaa242ac3da0026b973abfe7c1",
+            "Size": 31821437
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack3_9",
+            "Bundle": "hero_pack3_9",
+            "Hash": "f14e74350f57376e5c3990772c46786aa958e6b5a97d0816c313d4cbf730fa10",
+            "Size": 10485356
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack4_1",
+            "Bundle": "hero_pack4_1",
+            "Hash": "be3f8a03676b071594154e4942daa977780d8a2883b9d9466ab3b6bcea634d91",
+            "Size": 4154318
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack4_2",
+            "Bundle": "hero_pack4_2",
+            "Hash": "b0fab7c6524919f53440921744b1a44619acc576b638e8a558e0d91e1c91fc26",
+            "Size": 7704584
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack4_3",
+            "Bundle": "hero_pack4_3",
+            "Hash": "82d8930aa572b2f19fe33fb498be441ad3237c931ce995c2dbaeb084ceefcd65",
+            "Size": 9354251
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack4_4",
+            "Bundle": "hero_pack4_4",
+            "Hash": "ee2cb23549cf4bf9960d7097a13cb52b05290e6e82a52f1bd17f5caf24466c1c",
+            "Size": 5123238
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack4_5",
+            "Bundle": "hero_pack4_5",
+            "Hash": "65efefd9f97419a9c5d5fe0e423d80a5a93640704a79df8b4ab3f019cd4e3f10",
+            "Size": 6781703
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack4_6",
+            "Bundle": "hero_pack4_6",
+            "Hash": "91b735762b2ca3970b6049e98ddd3c40898abb308b2288e5194576827ab8b0a8",
+            "Size": 9349191
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack4_7",
+            "Bundle": "hero_pack4_7",
+            "Hash": "d6470c60dfc6a24716db265cc4b704f9dc8033bee46e0f4353b706f5e0c8be56",
+            "Size": 15047298
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack4_8",
+            "Bundle": "hero_pack4_8",
+            "Hash": "f700bf1e0c1e33e8016d547c3faf464dea408ce141ceebebd278fe1eaa2fa4de",
+            "Size": 12752495
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack4_9",
+            "Bundle": "hero_pack4_9",
+            "Hash": "941baf4b29f281b8c7da5835ec1e2122643d9b5b4e0e549559b209191444eca9",
+            "Size": 7135600
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack5_1",
+            "Bundle": "hero_pack5_1",
+            "Hash": "a65a733793a6f426dac73001435e0e96768588ad1ed87388549f727a28006cda",
+            "Size": 9489942
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack5_2",
+            "Bundle": "hero_pack5_2",
+            "Hash": "a351b53f9a36e4fa314848a33ec6cbc1eb078069f5c17f6d3c39c053ea8f2ade",
+            "Size": 15501374
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack5_3",
+            "Bundle": "hero_pack5_3",
+            "Hash": "1a5ec7c5bebccb20a5d63dd06646ccabe25dfb528270cd991aa2077feb97e7a8",
+            "Size": 25568529
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack5_4",
+            "Bundle": "hero_pack5_4",
+            "Hash": "62f34f391858e55dbfa4730c486d4392399e78e80e68d918ef5449c4d9e5e816",
+            "Size": 16762720
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack6_1",
+            "Bundle": "hero_pack6_1",
+            "Hash": "ce30a2eaebb21ff24559db54a87fe6c21fb4b864c74fb7825703fcab65d9bfa6",
+            "Size": 10376047
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack6_2",
+            "Bundle": "hero_pack6_2",
+            "Hash": "7528cbf772e5384ce8397208537411d2b471e11631911f785388d17a9028ef96",
+            "Size": 22027645
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack6_3",
+            "Bundle": "hero_pack6_3",
+            "Hash": "a8d730a476ee9cefae8df10539fe77c0ad27a4be1f7020801c438033f691c211",
+            "Size": 25292984
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack6_4",
+            "Bundle": "hero_pack6_4",
+            "Hash": "facf8fdfa365e203ccbf93e7d8422d88c0f8073fcee8e6cda820d44145fc7ce4",
+            "Size": 23878477
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack8_1",
+            "Bundle": "hero_pack8_1",
+            "Hash": "1bfe44ef7993fdc2cb80f541c03d082211911d2487453f1fea3a743f0dcd9928",
+            "Size": 10719619
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack8_2",
+            "Bundle": "hero_pack8_2",
+            "Hash": "bba2a5e0025185aa67d5fd6dfe4e02a3beee065b725d5f2b8c02e54a16d32e9a",
+            "Size": 9330285
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack8_3",
+            "Bundle": "hero_pack8_3",
+            "Hash": "609fc3dd40579a2b1f23ac72705ab119379aa842f1a45ace7873de567d2b6b84",
+            "Size": 12429898
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack8_4",
+            "Bundle": "hero_pack8_4",
+            "Hash": "55c6dcbed898c90d51447eb68bcb133e89dff6ac2d3e1369aee780224e97761d",
+            "Size": 11706150
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack8_5",
+            "Bundle": "hero_pack8_5",
+            "Hash": "5301b230ce5ba93f02ed74432c116f4e3d5703a1a062892d5860dec99e360b33",
+            "Size": 5757090
+        },
+        {
+            "Category": "HERO",
+            "Pack": "Pack8_200",
+            "Bundle": "hero_pack8_200",
+            "Hash": "ac56a42b838e2c969403bb08e7839c35b36edec96fc0bf316d9930bd6342a634",
+            "Size": 183544
+        }
+    ]
+}
