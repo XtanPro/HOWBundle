@@ -1,12 +1,33 @@
 {
-    "BuildTime": "2026-08-28T11:17:00.6203159Z",
+    "BuildTime": "2026-08-30T13:51:24.6290355Z",
     "Bundles": [
+        {
+            "Category": "GEAR",
+            "Pack": "artifact",
+            "Bundle": "gear_artifact",
+            "Hash": "374651288c7cda172038ddce3c2465ba3f2ce8e5b6c7a8e50b235a7c5ef99188",
+            "Size": 780862
+        },
+        {
+            "Category": "GEAR",
+            "Pack": "equip",
+            "Bundle": "gear_equip",
+            "Hash": "a0664073b41bbf99b481326e1c97e88e2b43c21e116df28f282206fa0bf63cfc",
+            "Size": 510163
+        },
         {
             "Category": "GEAR",
             "Pack": "except",
             "Bundle": "gear_except",
             "Hash": "d6527ef4e9eff7c927d81162bba01018335f61bde75399b0bbec8e6a7101908f",
             "Size": 183293
+        },
+        {
+            "Category": "GEAR",
+            "Pack": "gem",
+            "Bundle": "gear_gem",
+            "Hash": "7d182bee791ca63f4d77d0fdaa71b41d05598b7d328a324c51549a6213649bfd",
+            "Size": 42014
         },
         {
             "Category": "GEAR",
