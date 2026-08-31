@@ -1,0 +1,47 @@
+{
+    "BuildTime": "2026-08-31T07:21:34.1000164Z",
+    "Bundles": [
+        {
+            "Category": "GEAR",
+            "Pack": "artifact",
+            "Bundle": "gear_artifact",
+            "Hash": "4d08513ad42bfcf136f4fc3617b1f5166ea55a7061b57f1f198a502e9d0b716f",
+            "Size": 780845
+        },
+        {
+            "Category": "GEAR",
+            "Pack": "equip",
+            "Bundle": "gear_equip",
+            "Hash": "d990fce787b2be6a1f27c3439ab0e28942589bd6c4eb9d9ea8e3da3e0d6abd3d",
+            "Size": 510305
+        },
+        {
+            "Category": "GEAR",
+            "Pack": "except",
+            "Bundle": "gear_except",
+            "Hash": "9f0fe01a4c164425e69713fffef8a2598b14d76ed6e653a60146688778c8e043",
+            "Size": 183343
+        },
+        {
+            "Category": "GEAR",
+            "Pack": "gem",
+            "Bundle": "gear_gem",
+            "Hash": "4bdbce5da310992911871ae859d99def674e89179a1e895bfa92395645aae881",
+            "Size": 42030
+        },
+        {
+            "Category": "GEAR",
+            "Pack": "head",
+            "Bundle": "gear_head",
+            "Hash": "6064345c0f4c5f872ab3ffe220c1a5d64c3570c09e6aebd8ddf6faf3a60ca4bb",
+            "Size": 6092036
+        },
+        {
+            "Category": "GEAR",
+            "Pack": "hero",
+            "Bundle": "gear_hero",
+            "Hash": "5ebe4b7da74e74a2546001f52403579bea5b5fb9a50af48e46fe96a8b1602813",
+            "Size": 24312035
+        }
+    ]
+}
