@@ -1,46 +1,46 @@
 {
-    "BuildTime": "2026-08-31T07:21:34.1000164Z",
+    "BuildTime": "2026-09-01T13:08:08.1463670Z",
     "Bundles": [
         {
             "Category": "GEAR",
             "Pack": "artifact",
             "Bundle": "gear_artifact",
-            "Hash": "4d08513ad42bfcf136f4fc3617b1f5166ea55a7061b57f1f198a502e9d0b716f",
+            "Hash": "8a9f2fa28429e3c6270612ae14966204ef11faea3d08770eb6172e9d8aa18f5e",
             "Size": 780845
         },
         {
             "Category": "GEAR",
             "Pack": "equip",
             "Bundle": "gear_equip",
-            "Hash": "d990fce787b2be6a1f27c3439ab0e28942589bd6c4eb9d9ea8e3da3e0d6abd3d",
+            "Hash": "9d825d1a5d0c65c6a10d6f7ffb1fe71f83df580c19757b53ecbde7af76ac62b3",
             "Size": 510305
         },
         {
             "Category": "GEAR",
             "Pack": "except",
             "Bundle": "gear_except",
-            "Hash": "9f0fe01a4c164425e69713fffef8a2598b14d76ed6e653a60146688778c8e043",
+            "Hash": "499f37be3e198a048dfeb72914a4c7b7b55bd116a85d1a6d250c5805036530a1",
             "Size": 183343
         },
         {
             "Category": "GEAR",
             "Pack": "gem",
             "Bundle": "gear_gem",
-            "Hash": "4bdbce5da310992911871ae859d99def674e89179a1e895bfa92395645aae881",
+            "Hash": "81495ed521a05ced3c54a8c699499a04a9676ca10a089a7e502a31a7ee72a70c",
             "Size": 42030
         },
         {
             "Category": "GEAR",
             "Pack": "head",
             "Bundle": "gear_head",
-            "Hash": "6064345c0f4c5f872ab3ffe220c1a5d64c3570c09e6aebd8ddf6faf3a60ca4bb",
+            "Hash": "de58226b9a6725ec2f2c7539f47951e18745e5b39167f6ba688a02a05b0a440f",
             "Size": 6092036
         },
         {
             "Category": "GEAR",
             "Pack": "hero",
             "Bundle": "gear_hero",
-            "Hash": "5ebe4b7da74e74a2546001f52403579bea5b5fb9a50af48e46fe96a8b1602813",
+            "Hash": "7c690c7780f24adba0adc489a6703a0ecba0b654ce7f917eed7b012d64d70b7f",
             "Size": 24312035
         }
     ]

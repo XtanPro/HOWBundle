@@ -1,0 +1,19 @@
+{
+    "BuildTime": "2026-09-02T02:50:03.7146408Z",
+    "Bundles": [
+        {
+            "Category": "EFFECT",
+            "Pack": "LightBorder",
+            "Bundle": "effect_lightborder",
+            "Hash": "df7f280100f2bd9736a83c18aabb4bd6906a5fe2e90cb28a0b1d8e3e3105afb7",
+            "Size": 7188758
+        },
+        {
+            "Category": "EFFECT",
+            "Pack": "LightEquip",
+            "Bundle": "effect_lightequip",
+            "Hash": "d89b0fe383a0fb3e5e78ad4db18f78aa6393e941788c5e252546936e742bcea7",
+            "Size": 2190544
+        }
+    ]
+}
