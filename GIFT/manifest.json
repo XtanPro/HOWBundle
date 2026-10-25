@@ -1,40 +1,47 @@
 {
-    "BuildTime": "2026-10-25T03:52:04.7440767Z",
+    "BuildTime": "2026-10-25T09:08:38.8320806Z",
     "Bundles": [
         {
             "Category": "GIFT",
             "Pack": "assassin",
             "Bundle": "gift_assassin",
-            "Hash": "958aec64ef8926baa915418c3aae1f9dbde13cee42ef1c6a0680e1bbcd745f10",
-            "Size": 29033
+            "Hash": "f482fcab11e3d5514b7a91c4eab4acb61a9d25c86be717f549dea5190ceb19fd",
+            "Size": 29006
         },
         {
             "Category": "GIFT",
             "Pack": "mage",
             "Bundle": "gift_mage",
-            "Hash": "6765cd44ec9d42e77b6bffa8d84f413272496b7746f86ad1ddc0b627369949e9",
-            "Size": 29255
+            "Hash": "c8f96ed614ade43831fdd2dd793590bd2ef027d574cc9e9d9a7b58c9d629f5b2",
+            "Size": 29383
         },
         {
             "Category": "GIFT",
             "Pack": "priest",
             "Bundle": "gift_priest",
-            "Hash": "fb839f840b9e1e3e346e84e848d981db2e750e8c3074ac38a1445fd478f71d30",
-            "Size": 28724
+            "Hash": "d98a3830bfb29cf6335d125e5dc3db61f13b6150c28d7ffa61c6025970d24b16",
+            "Size": 28698
         },
         {
             "Category": "GIFT",
             "Pack": "ranger",
             "Bundle": "gift_ranger",
-            "Hash": "e711035ec9caedb7625669b5b107a8f220a7592a210a5951edef780a6a197344",
-            "Size": 29406
+            "Hash": "f17ef1f389cac7a0541a9022f8076b5c6b88c939a8efd10ea63ddf2e196e9d6d",
+            "Size": 29421
+        },
+        {
+            "Category": "GIFT",
+            "Pack": "void",
+            "Bundle": "gift_void",
+            "Hash": "8c26efaa3f34aca4cb012dbe8cfc38b3d927df0fd2e63a95fd5d4b2015bc8b98",
+            "Size": 879372
         },
         {
             "Category": "GIFT",
             "Pack": "warrior",
             "Bundle": "gift_warrior",
-            "Hash": "43b985c99c61cf42d7a5548309f4e06cd8253583dab192518eb7a8a87957bcf5",
-            "Size": 27397
+            "Hash": "f4ce52ed81c8e059da5aae2ea692ea0f8e16a922ebde9a600845331722deefa3",
+            "Size": 27420
         }
     ]
 }
